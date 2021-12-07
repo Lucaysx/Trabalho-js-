@@ -1,0 +1,5 @@
+var nome = "Lucas";
+var sobrenome = " Rodrigues";
+nome = nome+sobrenome;
+
+alert(nome);
